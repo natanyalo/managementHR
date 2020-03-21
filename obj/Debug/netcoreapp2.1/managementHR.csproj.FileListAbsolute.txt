@@ -1,0 +1,14 @@
+C:\Users\natan\source\repos\managementHR\managementHR\bin\Debug\netcoreapp2.1\managementHR.deps.json
+C:\Users\natan\source\repos\managementHR\managementHR\bin\Debug\netcoreapp2.1\managementHR.runtimeconfig.json
+C:\Users\natan\source\repos\managementHR\managementHR\bin\Debug\netcoreapp2.1\managementHR.runtimeconfig.dev.json
+C:\Users\natan\source\repos\managementHR\managementHR\bin\Debug\netcoreapp2.1\managementHR.dll
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.csprojAssemblyReference.cache
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.RazorAssemblyInfo.cache
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.RazorAssemblyInfo.cs
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.AssemblyInfoInputs.cache
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.AssemblyInfo.cs
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.RazorTargetAssemblyInfo.cache
+C:\Users\natan\source\repos\managementHR\managementHR\bin\Debug\netcoreapp2.1\managementHR.pdb
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.dll
+C:\Users\natan\source\repos\managementHR\managementHR\obj\Debug\netcoreapp2.1\managementHR.pdb
